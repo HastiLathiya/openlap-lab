@@ -510,6 +510,6 @@ export default Register;
 +// New stepper function
 
 export default function Steppers(props){
-  //props
+  //props tiral
   const {steps: {icons, names}, sctiveStep, completedStep, handleStep = props;
 }
