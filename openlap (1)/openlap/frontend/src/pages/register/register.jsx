@@ -506,3 +506,10 @@ const Register = () => {
 };
 
 export default Register;
+
++// New stepper function
+
+export default function Steppers(props){
+  //props
+  const {steps: {icons, names}, sctiveStep, completedStep, handleStep = props;
+}
